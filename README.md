@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-[Demo](Wordle_1.0.gif) .
+[Demo](Wordle_1.0.gif)
 
 
 ## Notes
